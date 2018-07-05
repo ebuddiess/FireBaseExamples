@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1090871399646",
+    "firebase_url": "https://authdemo-a4fae.firebaseio.com",
+    "project_id": "authdemo-a4fae",
+    "storage_bucket": "authdemo-a4fae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1090871399646:android:ad8a3377b4d16f7a",
+        "android_client_info": {
+          "package_name": "com.example.ebuddiess.authdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1090871399646-fhhcecbclfkg8mfk3or1ast3dom5mmsg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ebuddiess.authdemo",
+            "certificate_hash": "afc10142d602158794f5f83e71ae8787ca311dd2"
+          }
+        },
+        {
+          "client_id": "1090871399646-h31g9e03n6dubi5ohtgiemdcmmp0h2va.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBapkjXdmYbzMimAYztkQR4lyzIb6zKZkE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1090871399646-h31g9e03n6dubi5ohtgiemdcmmp0h2va.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
