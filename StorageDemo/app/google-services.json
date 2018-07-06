@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "388457432289",
+    "firebase_url": "https://storagedemo-b92a3.firebaseio.com",
+    "project_id": "storagedemo-b92a3",
+    "storage_bucket": "storagedemo-b92a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:388457432289:android:883e047fed815ca8",
+        "android_client_info": {
+          "package_name": "com.example.ebuddiess.storagedemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "388457432289-48cumbae6doksfk30fi4kcgjao2psffl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ebuddiess.storagedemo",
+            "certificate_hash": "afc10142d602158794f5f83e71ae8787ca311dd2"
+          }
+        },
+        {
+          "client_id": "388457432289-a3hji072qguare9ujlo7j0ln9khpbimk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlS2mrkobsjjWbuw_vV6keBqk5y8eAHMc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "388457432289-a3hji072qguare9ujlo7j0ln9khpbimk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
